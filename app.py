@@ -90,6 +90,7 @@ with st.container():
              <form action="https://formsubmit.co/8c3c9237d0e4a1bcb981b9d01ae7aa65" method="POST">
                 <input type="text" name="name" placeholder="Jméno" required>
                 <input type="email" name="email" placeholder="E-mail" required>
+                <textarea name="message" placeholder="Zpráva" style='resize:vertical; max-height:100vh;'>
                 <button type="submit">Odeslat</button>
             </form> 
                 """
