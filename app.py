@@ -87,7 +87,7 @@ with st.container():
             - Linux Shell
             """, "https://github.com/FryerZabijak/obesenec-v-shellu")
     contact_form = """
-             <form action="https://formsubmit.co/ceo@pepamraz.cz" method="POST">
+             <form action="https://formsubmit.co/8c3c9237d0e4a1bcb981b9d01ae7aa65" method="POST">
                 <input type="text" name="name" placeholder="Jméno" required>
                 <input type="email" name="email" placeholder="E-mail" required>
                 <button type="submit">Odeslat</button>
